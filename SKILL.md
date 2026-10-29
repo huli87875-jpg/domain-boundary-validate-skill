@@ -1,22 +1,10 @@
 ---
-
 name: domain-intra-converge-domain-boundary-validate-learning-skill
-
 description: 将学习拆成域内收敛、边界校验两个环节；大模型负责知识点收敛，人主导识别适用前提、失效边界，防止跨域知识错配迁移
-
-metadata:
-
-&#x20; version: "v1.0"
-
-&#x20; author: security-arch
-
+version: "v1.0"
+author: security-arch
 ---
-
-
-
 # Domain-Intra Converge & Domain-Boundary Validate Learning Skill（域内收敛+边界校验学习Skill）
-
-
 
 ## Skill Purpose
 
