@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "domain-intra-converge-domain-boundary-validate-learning-skill": {
+      "source": "huli87875-jpg/domain-boundary-validate-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "42f1cd4f6e0419c67f601bf802a8fcdb37142f09a513550b367a40cd116703f4"
+    }
+  }
+}
